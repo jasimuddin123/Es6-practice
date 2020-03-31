@@ -10,7 +10,7 @@ numbers.push(30);
 console.log(numbers);
 
 
-let lover = "Saim akter";
+let lover = "Saima akter";
 
 lover = "Mother ";
 
